@@ -91,8 +91,8 @@
 ###
 
 <div align="center">
-  <a href="tel:+8801518460475" title="Dial Number">
-    <img src="https://raw.githubusercontent.com/mrakashsaha/mrakashsaha/69e3ca0596a77efeb096319560b14b0c4a2c9a32/images/dial.svg" height="40" alt="linkedin logo"  />
+  <a href="tel:+8801518460475" target="_blank">
+    <img src="https://raw.githubusercontent.com/mrakashsaha/mrakashsaha/69e3ca0596a77efeb096319560b14b0c4a2c9a32/images/dial.svg" height="40" alt="dial logo"  
   </a>
   <a href="https://www.linkedin.com/in/akash-kumar-saha-086656177" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
