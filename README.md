@@ -1,3 +1,5 @@
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/mrakashsaha/mrakashsaha/refs/heads/main/images/banner.jpg)
+
 ## Hi there 👋
 
 <!--
